@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+permalink: /index.html
 # Portfolio
-=======
+
 # angular-portfolio
 Portfolio with angular
 
 # Enter to Portfolio
->>>>>>> ad436395a996eb7643526ee79bb3b7d7653e5a15
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
