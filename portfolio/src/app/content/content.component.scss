@@ -1,0 +1,21 @@
+
+.content
+{
+  margin-left: 250px;
+  background: url(https://i.stack.imgur.com/90nGa.jpg) no-repeat ;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.sidebar {
+  visibility: collapse;
+}
+
+
+
+#expand-toggle:checked {
+  .sidebar{
+    border: 20px;
+  }
+}
