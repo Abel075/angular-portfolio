@@ -7,7 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PortfolioComponent implements OnInit {
 
-  portfolioImage1: string = "assets/service3.png"
+  portfolioImage1: string = "assets/michiApp.png";
+  portfolioImage2: string = "assets/bienesRaices.png";
+  portfolioImage3: string = "assets/appCommerce.png";
+  portfolioImage4: string = "assets/landinPageStore.png";
+  portfolioImage5: string = "assets/blogDeCafe.png";
+  portfolioImage6: string = "assets/agenciaDigital.png";
 
   constructor() { }
 
